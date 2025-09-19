@@ -46,7 +46,8 @@
 
 ## 📊 GitHub Stats  
 
-| ![Avishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=basyalavishek&show_icons=true&theme=radical) | [![GitHub Streak](https://streak-stats.herokuapp.com/?user=basyalavishek&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ![Avishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=basyalavishek&show_icons=true&theme=radical) |[![GitHub Streak](https://streak-stats.herokuapp.com/?user=basyalavishek&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basyalavishek&layout=compact&show_icons=true&theme=radical)](https://github.com/basyalavishek) |                                                              |
                                                               
