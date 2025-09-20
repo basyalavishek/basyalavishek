@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **avishekbasyal3@gmail.com**
 
-- ⚡ Intrest **I love to watch movies**
+- ⚡ Intrest : **I love to watch movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
