@@ -51,18 +51,28 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
-## 📊 GitHub Stats  
+<!-- GitHub Stats -->
+<h2 align="center">📈 GitHub Stats</h2>
 
-| ![Avishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=basyalavishek&show_icons=true&theme=radical) |[![GitHub Streak](https://streak-stats.herokuapp.com/?user=basyalavishek&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=basyalavishek&show_icons=true&theme=radical" alt="Avishek's GitHub stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=basyalavishek&theme=radical" alt="Avishek's GitHub streak" />
+      </td>
+    </tr>
+  </table>
+</p>
 
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basyalavishek&layout=compact&show_icons=true&theme=radical)](https://github.com/basyalavishek) |                                                              |
+<!-- Contribution Graph -->
+<h2 align="center">🔥 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basyalavishek&bg_color=1e1e1e&color=ff047d&line=9e4c98&point=ffffff&area=true&hide_border=true" alt="Avishek's GitHub activity graph" />
+</p>
                                                               
                                                             
-
-[![Avishek’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=basyalavishek&bg_color=1e1e1e&color=ff047d&line=9e4c98&point=ffffff&area=true&hide_border=true)](https://github.com/basyalavishek)
-
-
-
-
 ⭐️ From [basyalavishek](https://github.com/basyalavishek)
