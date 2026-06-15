@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basyalavishek&label=Profile%20views&color=0e75b6&style=flat" alt="basyalavishek" /> </p>
 
-- 🌐 Website [https://avishekbasyal.com.np](https://avishekbasyal.com.np)
+<!-- - 🌐 Website [https://avishekbasyal.com.np](https://avishekbasyal.com.np) -->
 
 - 📫 How to reach me **avishekbasyal3@gmail.com**
 
