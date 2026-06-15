@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avishek Basyal</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=8E44AD&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+👨‍💻;Full-Stack+Developer+🌐;AI%2FML+Enthusiast+🤖;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=8E44AD&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+👨‍💻;AI%2FML+Enthusiast+🤖;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
 
 <img align="right" alt = "coding" width="400" src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJndjlmazZiNmV2bXBnaWd3cnNpdGJoamx5YXhtZG9qdTBjODVyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
@@ -8,7 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basyalavishek&label=Profile%20views&color=0e75b6&style=flat" alt="basyalavishek" /> </p>
 
-<!-- - 🌐 Website [https://avishekbasyal.com.np](https://avishekbasyal.com.np) -->
 
 - 📫 How to reach me **avishekbasyal3@gmail.com**
 
