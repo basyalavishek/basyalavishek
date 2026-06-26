@@ -16,7 +16,7 @@
 * 🎯 **Core Focus:** LLMs, Agentic AI, Retrieval-Augmented Generation (RAG), NLP, Machine Learning, and Deep Learning.
 * 🛠️ **Current Toolkit:** Python, LangChain, LangGraph, FastAPI, Node.js, and Model Context Protocol (MCP).
 * 🌍 **Location:** Based in Nepal 🇳🇵
-* 👥 **Collaboration:** Looking to collaborate on **AI/ML initiatives**, **Agentic AI architecture**, **LLM integrations**, **Advanced RAG                              pipelines**, and **open-source AI engineering projects** using LangChain and LangGraph.
+* 👥 **Collaboration:** Looking to collaborate on **AI/ML initiatives**, **Agentic AI architecture**, **LLM integrations**, **Advanced RAG pipelines**, and **open-source AI engineering projects** using LangChain and LangGraph.
 * ✉️ **Contact:** [avishekbasyal3@gmail.com](mailto:avishekbasyal3@gmail.com)
 
 ---
@@ -76,7 +76,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=basyalavishek&show_icons=true&theme=radical&rank_icon=github" alt="Avishek's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basyalavishek&theme=radical" alt="Avishek's GitHub streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basyalavishek&theme=radical&count_private=true&v=1" alt="Avishek's GitHub streak" width="48%" />
 </p>
 
 ---
