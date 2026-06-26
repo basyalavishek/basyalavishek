@@ -76,7 +76,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=basyalavishek&show_icons=true&theme=radical&rank_icon=github" alt="Avishek's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basyalavishek&theme=radical&v=3" alt="Avishek's GitHub streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basyalavishek&theme=radical&v=5" alt="Avishek's GitHub streak" width="48%" />
 </p>
 
 ### 💻 Contribution Activity
