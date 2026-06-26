@@ -76,7 +76,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=basyalavishek&show_icons=true&theme=radical&rank_icon=github" alt="Avishek's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basyalavishek&theme=radical&count_private=true&v=1" alt="Avishek's GitHub streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basyalavishek&theme=radical&v=3" alt="Avishek's GitHub streak" width="48%" />
+</p>
+
+### 💻 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basyalavishek&bg_color=1e1e1e&color=ff047d&line=9e4c98&point=ffffff&area=true&hide_border=true" alt="Avishek's GitHub activity graph" width="100%" />
 </p>
 
 ---
