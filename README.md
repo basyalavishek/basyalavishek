@@ -70,23 +70,6 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </p>
 
----
-
-## 📊 Git Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basyalavishek&show_icons=true&theme=radical&rank_icon=github" alt="Avishek's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basyalavishek&theme=radical&v=5" alt="Avishek's GitHub streak" width="48%" />
-</p>
-
-### 💻 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basyalavishek&bg_color=1e1e1e&color=ff047d&line=9e4c98&point=ffffff&area=true&hide_border=true" alt="Avishek's GitHub activity graph" width="100%" />
-</p>
-
----
-
-## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avishek-basyal-566763260/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avishekbasyal3@gmail.com)
